@@ -1,0 +1,8 @@
+Python is a high-level, interpreted programming language.
+- Easy to learn and read with clean syntax
+- Versatile: web development, data science, AI, automation
+- Extensive standard library and third-party packages
+- Dynamic typing with strong type inference
+- Cross-platform support (Windows, Linux, macOS)
+- Large community and excellent documentation
+- Supports multiple programming paradigms

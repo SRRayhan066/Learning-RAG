@@ -1,0 +1,8 @@
+C is a low-level, compiled programming language.
+- Provides direct memory access and system-level control
+- Foundation for many modern languages (C++, Java, Python)
+- Highly efficient and fast execution
+- Requires manual memory management
+- Portable across different hardware platforms
+- Used in operating systems, embedded systems, drivers
+- Rich set of operators and control structures
