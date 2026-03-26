@@ -9,7 +9,9 @@ This project demonstrates how to build a RAG pipeline that ingests documents, pr
 ## Features
 
 - Document ingestion from multiple sources (text files, PDFs)
-- Document processing and chunking
+- Document processing and chunking using LangChain text splitters
+- Vector storage with ChromaDB and FAISS
+- Sentence transformer embeddings for semantic search
 - LangChain integration for RAG workflows
 
 ## Tech Stack
@@ -17,16 +19,17 @@ This project demonstrates how to build a RAG pipeline that ingests documents, pr
 - **Python** 3.12+
 - **LangChain** - LLM framework
 - **LangChain Community** - Additional loaders and tools
+- **ChromaDB** - Vector database
+- **FAISS** - Facebook AI Similarity Search
+- **Sentence Transformers** - Text embeddings
 - **PyPDF** - PDF processing
 - **PyMuPDF** - Alternative PDF processing
 
 ## Installation
 
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   uv sync
-   ```
+```bash
+uv sync
+```
 
 ## Project Structure
 
@@ -42,7 +45,7 @@ learning-rag-pipeline/
 
 ## Getting Started
 
-1. Activate the virtual environment (if using venv)
+1. Activate the virtual environment
 2. Run notebooks in `notebook/` directory to explore RAG concepts
 3. Check `main.py` for the main application logic
 
