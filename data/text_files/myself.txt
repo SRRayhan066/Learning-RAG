@@ -1,0 +1,9 @@
+My name is Md Shafikul Rahman Rayhan. In short S R Rayhan. I am currently working in ShellBeeHaken Ltd as an Associate Software Engineer.
+
+My professional background includes experience with full-stack web development, backend systems, and cloud technologies. I have worked on various projects involving API development, database design, and system optimization.
+
+Currently, I am focusing on learning Retrieval-Augmented Generation (RAG) to enhance my skills in building AI-powered applications. RAG is a technique that combines information retrieval with language models to provide more accurate and contextual responses. This technology is crucial for building intelligent systems that can access and process external knowledge bases effectively.
+
+My technical interests include machine learning, natural language processing, and building scalable systems. I am passionate about continuous learning and staying updated with the latest technologies in software engineering and artificial intelligence.
+
+At ShellBeeHaken Ltd, I contribute to developing robust software solutions that meet client requirements. My role involves collaborating with team members, writing clean and maintainable code, and participating in code reviews to ensure high-quality deliverables.
